@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">TesteRulesAndroid</string>
+    <string name="btnRegras">Calcular</string>
+    <string name="txtRegras">Regras</string>
+</resources>
